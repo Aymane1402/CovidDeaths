@@ -17,7 +17,7 @@ This project presents an in-depth analysis of global COVID-19 deaths using SQL a
 
 - **SQL** (PostgreSQL / MySQL)
 - **Excel** for data preparation
-- **Power BI** or **Tableau** *(optional for visualizations)*
+- Power BI(optional for visualizations)*
 
 ---
 
